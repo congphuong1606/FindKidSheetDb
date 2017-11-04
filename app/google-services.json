@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568755034878",
+    "firebase_url": "https://find-kids-16e23.firebaseio.com",
+    "project_id": "find-kids-16e23",
+    "storage_bucket": "find-kids-16e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568755034878:android:f9c0b1078a45d294",
+        "android_client_info": {
+          "package_name": "com.congp.finkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568755034878-4uuhbm69k8cr459a4dtaloi6sunep9kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.congp.finkids",
+            "certificate_hash": "f989bc2cfd557cf0135d2ffc63d83a53ea41d46a"
+          }
+        },
+        {
+          "client_id": "568755034878-adibcmcgjb66joke7841ivcgut4ulan8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA798hW02l6YlAOTGmcxp-9O8G2WwWBAUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568755034878-adibcmcgjb66joke7841ivcgut4ulan8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
